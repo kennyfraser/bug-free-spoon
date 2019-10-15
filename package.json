@@ -1,0 +1,21 @@
+{
+  "name": "bug-free-spoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "version:update": "",
+    "deploy": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennyfraser/bug-free-spoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennyfraser/bug-free-spoon/issues"
+  },
+  "homepage": "https://github.com/kennyfraser/bug-free-spoon#readme"
+}
