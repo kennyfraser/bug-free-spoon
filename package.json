@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "version:update": "",
+    "version:list": "node ./version.js",
+    "version:update": "node ./version.js",
     "deploy": "",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
