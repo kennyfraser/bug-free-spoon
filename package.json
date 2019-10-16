@@ -2,7 +2,7 @@
   "name": "bug-free-spoon",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "version:list": "node ./version.js",
     "version:update": "node ./version.js",
