@@ -6,7 +6,7 @@
   "scripts": {
     "version:list": "node ./version.js",
     "version:update": "node ./version.js",
-    "deploy": "",
+    "deploy": "echo 'deploy'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
